@@ -1,5 +1,3 @@
-package DesignPattern.Factory_DesignPattern;
-
 public class Andorid implements Os {
 
     @Override

@@ -1,5 +1,3 @@
-package DesignPattern.Factory_DesignPattern;
-
 public class OperatingSystem_Factory {
 
     public Os getInstance(String str){
